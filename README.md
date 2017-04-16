@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
 [![](https://img.shields.io/badge/ShadowSocks-Linux-brightgreen.svg)]()
 
-![image](https://github.com/0x024/alimemeda/blob/master/data/log/Selection_012.png)
+![image](https://github.com/0x024/alimemeda/blob/master/data/log/exp.png)
 
 ## 0x01环境：
 ```
@@ -44,8 +44,7 @@ ippicv_linux_20151201.tgz，
 需要挂代理，，关于如何在ubuntu上安装shadowsocks科学上网，我的博客也有写过，
 ## 0x02 目录树:
 
-
-
+![image](https://github.com/0x024/alimemeda/blob/master/data/log/tree.png)
 
 ## 0x03 执行:
 
