@@ -4,8 +4,8 @@ import os
 import json
 from subprocess import Popen,PIPE
 import cv2
-api_key="这里输入api_key"
-api_secret="这里输入api_secret"
+api_key="PxcWNl91AtsF51DiaeUhNYZXS18vu6_3"
+api_secret="HHWh27sBEcjzm4Nta4ZEIMisjLhRX5vA"
 path='./data/log'
 def detect(image_file,return_landmark=0):
     result=Popen('curl -X POST "https://api-cn.faceplusplus.com/facepp/v3/detect" -F \
