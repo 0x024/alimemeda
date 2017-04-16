@@ -52,6 +52,8 @@ ippicv_linux_20151201.tgz，
 运行前，
 
 	需要将alimemeda.py中的api_key和api_secret换成你的
+	需要将./face/FaceAPI.py中的api_key和api_secret换成你的
+	(为了便于您测试,我以将我的key放在里面，为了防止多人使用outer_id冲突，希望您后期换成自己的)
 	需要将所需要识别的图片放在/img目录下，暂时只可识别一张
 
 ```
