@@ -1,11 +1,11 @@
+![image](https://github.com/0x024/alimemeda/blob/master/data/log/exp.png)
+
+## 0x01环境：
 [![](https://img.shields.io/badge/Ubuntu-16.04LTS-brightgreen.svg)]()
 [![](https://img.shields.io/badge/Python-2.7-brightgreen.svg)]()
 [![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
 [![](https://img.shields.io/badge/ShadowSocks-Linux-brightgreen.svg)]()
 
-![image](https://github.com/0x024/alimemeda/blob/master/data/log/exp.png)
-
-## 0x01环境：
 ```
 curl安装：
 	sudo apt-get install curl
