@@ -5,40 +5,29 @@
 [![](https://img.shields.io/badge/Ubuntu-16.04LTS-brightgreen.svg)]()
 [![](https://img.shields.io/badge/Python-2.7-brightgreen.svg)]()
 [![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
-[![](https://img.shields.io/badge/ShadowSocks-Linux-brightgreen.svg)]()
 
 ```
 curl安装：
 	sudo apt-get install curl
 ```
 
+
+
+
+```
 OpenCV 3.2.0
-
-
-```
-安装依赖包:
-      sudo apt-get install build-essential
-      sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
-      sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
-```
-
-```
-
-为了方便使用OpenCV我已经将需要的包整合到我的github上，可以直接下载编译，
-    git clone https://github.com/0x024/opencv.git
-    #如果您有更高的要求，可以去OpenCV官网，自行下载
-```
-
-
-``` 
-进行安装
-	cd opencv
+	sudo apt-get install build-essential
+	sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+	sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
+	git clone https://github.com/0x024/opencv.git    #为了方便,我已经将需要的包整合到我的github上，可以直接下载编译，
+	cd opencv #进入OpenCV目录
 	mkdir release
 	cd release
 	cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
 	make -j4  #这里的-j4代表job数，越大编译的速度越快
 	sudo make install
 ```
+
 
 ## 0x02 目录树:
 
