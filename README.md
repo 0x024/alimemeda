@@ -23,7 +23,7 @@ OpenCV 3.2.0
 	cd opencv #进入OpenCV目录
 	mkdir release
 	cd release
-	cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
+	cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..  #如果出现download ippicv失败的信息，重复运行本命令即可，还是不行，请挂代理！
 	make -j4  #这里的-j4代表job数，越大编译的速度越快
 	sudo make install
 ```
