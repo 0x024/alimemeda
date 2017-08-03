@@ -2,7 +2,7 @@
 ![image](https://github.com/0x024/alimemeda/blob/master/data/log/exp.png)
 
 ## 0x01环境：
-[![](https://img.shields.io/badge/Ubuntu-16.04-mate -brightgreen.svg)]()
+[![](https://img.shields.io/badge/Ubuntu-mate-brightgreen.svg)]()
 [![](https://img.shields.io/badge/Python-2.7-brightgreen.svg)]()
 [![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
 [![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
