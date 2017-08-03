@@ -5,6 +5,11 @@
 [![](https://img.shields.io/badge/Ubuntu-16.04LTS-brightgreen.svg)]()
 [![](https://img.shields.io/badge/Python-2.7-brightgreen.svg)]()
 [![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
+[![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
+[![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
+[![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
+[![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)]()
+[![](https://img.shields.io/badge/reapberry%20pi3-Model%20B%20-brightgreen.svg)]()
 
 ```
 curl安装：
